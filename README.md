@@ -1,5 +1,6 @@
 # 写给自己
 Never late than never.  -----from an old programer.
+作为一个程序员，到了35岁就变的很不容易了，且行且珍惜！
 
 # 这是什么？
 ## 好记性不如烂笔头
