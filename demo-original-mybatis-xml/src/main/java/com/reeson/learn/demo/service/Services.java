@@ -15,7 +15,6 @@ public class Services {
     SqlSessionFactory sessionFactory = null;
     SqlSession sqlSession = null;
 
-
     public Services(){
         String resource = "mybatis-config.xml";
         // 加载mybatis的配置文件
