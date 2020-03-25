@@ -11,6 +11,7 @@
     <modules>
         <module>demo-original-mybatis-xml</module>
         <module>demo-original-mybatis-annotation</module>
+        <module>demo-mybatis-spring</module>
     </modules>
 
 
