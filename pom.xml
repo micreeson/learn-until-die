@@ -21,6 +21,7 @@
         <module>demo-original-mybatis-annotation</module>
         <module>demo-mybatis-spring</module>
         <module>demo-mybatis-spring-boot-starter</module>
+        <module>demo-spring-test</module>
     </modules>
 
 
